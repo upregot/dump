@@ -1,0 +1,37 @@
+
+body {
+    background-color: bisque;
+}
+div {
+    display: fle; /* Utilizamos flexbox para centrar vertical y horizontalmente */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    margin: 15%;
+    background-color: gray;
+}
+
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgba(255, 132, 0, 0.6);
+    color: white;
+    border-style: groove;
+}
+
+input {
+    display: block;
+    text-align: center;
+    padding: 1%;
+    background-color: orange;
+    margin: auto;
+    margin-bottom: 15px;
+    ;
+}
+
+p {
+    text-align: center;
+    color: wheat;
+    ;
+}
+
