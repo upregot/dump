@@ -1,1 +1,0 @@
-La base de datos se crea automaticamente cuando se inicia la aplicación si es que no existe.

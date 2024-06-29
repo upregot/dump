@@ -6,31 +6,7 @@
   width: 100%;
 }
 
-h1 {
-  margin: 20px 0;
-}
-
-.contenedor-card {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px;
-  max-width: 100%;
-}
-
-.contenedor-card > .card {
-  flex: 1 1 calc(25% - 20px); /* Asegurar que cada tarjeta ocupa un máximo de 25% del ancho, menos el gap */
-  box-sizing: border-box;
-}
-.container-fluid {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  width: 100%;
-}
-
-h1 {
+.h1 {
   margin: 20px 0;
 }
 
